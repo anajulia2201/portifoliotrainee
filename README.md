@@ -1,0 +1,2 @@
+# portifoliotrainee
+Um portifólio pessoal
